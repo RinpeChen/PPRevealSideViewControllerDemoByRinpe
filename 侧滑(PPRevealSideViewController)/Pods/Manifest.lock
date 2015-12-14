@@ -1,0 +1,13 @@
+PODS:
+  - PPHelpMe (1.0.2)
+  - PPRevealSideViewController (1.2.2):
+    - PPHelpMe
+
+DEPENDENCIES:
+  - PPRevealSideViewController (~> 1.2.1)
+
+SPEC CHECKSUMS:
+  PPHelpMe: 243c40d2fad33ebdcc6b158c0db54893e0cc2d14
+  PPRevealSideViewController: be6d88511fcf55ddcfb9e9ad6167644a421e709a
+
+COCOAPODS: 0.39.0
